@@ -1,13 +1,12 @@
-# HSE_project: Применение методов NLP для анализа 5-летней истории отзывов о Queen’s Hospital (Промежуточный проект)
+# Application of NLP Methods for the Analysis of a 5-Year History of Reviews on Queen’s Hospital (Interim Project)
 
-Задачи проекта: 
+Project Objectives:
+Collect reviews from the I Want Great Care website (about Queen’s Hospital, Romford, UK).
 
-Собрать отзывы с сайта I Want Great Care (о Queen’s Hospital, Romford, UK).
+Clean and preprocess the data.
 
-Очистить и предобработать данные.
+Conduct sentiment analysis of the reviews.
 
-Провести анализ тональности отзывов.
+Identify key words and emotional adjectives, as well as calculate their absolute and relative frequency.
 
-Определить ключевые слова и эмоционально окрашенные прилагательные, а также вычислить их абсолютную и относительную частотность.
-
-Выделить биграммы, содержащие эмоционально окрашенные прилагательные для дальнейшего анализа.
+Extract bigrams containing emotionally charged adjectives for further analysis.
